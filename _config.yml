@@ -4,7 +4,7 @@ url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
   Multimodal Art Projection (MAP) is an opensource research community. 
   The coummnity members are working towards Music AGI (Artificial General Intelligence)~ We pre-train large music models (LMMs)~🔥
-  See our released models at our [huggingface organization page](https://huggingface.co/m-a-p).
+  See our released models at our huggingface organization page: https://huggingface.co/m-a-p.
 
 permalink: /:slug
 
@@ -28,7 +28,7 @@ theme_config:
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
-  show_blog: true # show blog posts added in _posts
+  show_blog: false # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
@@ -36,9 +36,9 @@ theme_config:
   # options for "home" page
   home:
     title_projects: Portfolio
-    title_misc_list: Details
-    title_blog: Blog
-    title_old_projects: Old Projects
+    # title_misc_list: Details
+    # title_blog: Blog
+    # title_old_projects: Old Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
