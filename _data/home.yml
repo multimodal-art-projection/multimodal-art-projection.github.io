@@ -1,11 +1,11 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  # - title: blog
-  #   url: blog
+  - title: News
+    url: blog
 
-  - title: released models
+  - title: Released Models
     url: https://huggingface.co/m-a-p
 
 project_entries:
