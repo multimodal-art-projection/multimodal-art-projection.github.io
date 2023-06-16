@@ -13,11 +13,13 @@ The Mutlimodal Art Projection research community is initialised by (surname alph
 
 ## Supervisors
 
-The projects in M-A-P research community are supervised by the following researchers (surname alphabetical order):
+The initialisation of M-A-P research community was under the supervision from (surname alphabetical order):
 * [Emmanouil BENETOS](https://www.eecs.qmul.ac.uk/~emmanouilb/)
-* [Wenhu CHEN](https://wenhuchen.github.io/)
 * [Jie FU](https://bigaidream.github.io/)
 * [Chenghua LIN](https://chenghualin.wordpress.com/)
+
+The projects in M-A-P research community are also supervised by the following researchers (surname alphabetical order):
+* [Wenhu CHEN](https://wenhuchen.github.io/)
 * [Ruibo LIU](https://www.cs.dartmouth.edu/~rbliu/)
 * [Gus XIA](http://www.musicxlab.com/members/gus/index.html)
 * [Wei XUE](http://wei-xue.com/)
