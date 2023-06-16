@@ -4,7 +4,6 @@ author: Yizhi Li
 tags: [organisation, activity]
 ---
 
-# The Start of the Multimodal Art Projection
 
 In July 2022, Ruibin Yuan, Yinghao Ma, Ge Zhang, and I came together to initialise a new research community focused on machine learning for multimodal arts including but not limited to music. 
 Our goal was to create a space where researchers from different backgrounds could collaborate and share their expertise to advance our understanding of AIGC.
