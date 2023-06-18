@@ -10,11 +10,11 @@ navbar_entries:
 
 project_entries:
   - title: MERT
-    ur: https://github.com/yizhilll/MERT
+    url: https://github.com/yizhilll/MERT
     desc: MERT is a large-scale acoustic music understanding pre-trained model.
 
   - title: MARBLE
-    ur: https://marble-bm.shef.ac.uk/
+    url: https://marble-bm.shef.ac.uk/
     desc: MARBLE is a benchmark proposed to help the academic & industrial to study, compare, and select pre-trained models according comprehensive evaluation.
 
   - title: Music Descriptor
