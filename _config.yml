@@ -2,8 +2,9 @@ title: Multimodal Art Projection
 author: Yizhi Li
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Multimodal Art Projection (MAP) is an opensource research community. 
-  The coummnity members are working towards Music AGI (Artificial General Intelligence)~ We pre-train large music models (LMMs)~🔥
+  Multimodal Art Projection (M-A-P) is an opensource research community. 
+  The coummnity members are working on Artificial Intelligence-Generated Content (AIGC) topics, including text, audio, and vision modalities.
+  We do large language models (LMMs) training, data collection, and development of fun applications. Welcome to join us~
   See our released models at our huggingface organization page: https://huggingface.co/m-a-p.
 
 permalink: /:slug
