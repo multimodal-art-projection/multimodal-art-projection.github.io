@@ -3,20 +3,20 @@ layout: post
 title: About
 ---
 
-## Students
+## Community Initiator
 
-The Mutlimodal Art Projection research community is initialised by (surname alphabetical order):
+The Mutlimodal Art Projection research community is initialised by a group of graduate students (surname alphabetical order):
 * [Yizhi LI](https://twitter.com/yizhilll) 
 * [Yinghao MA](https://twitter.com/nicolaus625)
 * [Ruibin YUAN](https://twitter.com/abc43992899)
 * [Ge ZHANG](https://twitter.com/GeZhang86038849).
 
-## Supervisors
-
-The initialisation of M-A-P research community was under the supervision from (surname alphabetical order):
+The initialisation of M-A-P research community is under the supervision from (surname alphabetical order):
 * [Emmanouil BENETOS](https://www.eecs.qmul.ac.uk/~emmanouilb/)
 * [Jie FU](https://bigaidream.github.io/)
 * [Chenghua LIN](https://chenghualin.wordpress.com/)
+
+## Members
 
 The projects in M-A-P research community are also supervised by the following researchers (surname alphabetical order):
 * [Wenhu CHEN](https://wenhuchen.github.io/)
@@ -39,3 +39,6 @@ Our memembers and advisors are from world-wide research institutes (by alphabeti
 - Queen Mary University of London
 - University of Sheffield
 - University of Waterloo
+
+
+We also want to express our gratitude t [Yemin Shi](https://scholar.google.com/citations?user=s_KJsGwAAAAJ&hl=en), our first sponsor for maintaining the website domain!
