@@ -41,4 +41,4 @@ Our memembers and advisors are from world-wide research institutes (by alphabeti
 - University of Waterloo
 
 
-We also want to express our gratitude t [Yemin Shi](https://scholar.google.com/citations?user=s_KJsGwAAAAJ&hl=en), our first sponsor for maintaining the website domain!
+We also want to express our gratitude to [Yemin Shi](https://scholar.google.com/citations?user=s_KJsGwAAAAJ&hl=en), our first sponsor for maintaining the website domain!
