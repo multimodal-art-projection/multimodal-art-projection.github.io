@@ -35,7 +35,9 @@ We are grateful to the suggetions from:
 Our memembers and advisors are from world-wide research institutes (by alphabetical):
 - Beijing Academy of Artificial Intelligence
 - Carnegie Mellon University
+- Dartmouth College
 - Hong Kong University of Science and Technology
+- Mohamed bin Zayed University of Artificial Intelligence
 - Queen Mary University of London
 - University of Sheffield
 - University of Waterloo
