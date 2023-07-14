@@ -78,12 +78,12 @@ project_entries:
 #   - title: feed
 #     url: feed.xml
 
-# misc_entries:
-#   - title: this is an example vertical list
-#     url: false
+misc_entries:
+  - title: MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training
+    url: https://arxiv.org/abs/2306.00107
 
-#   - title: you can show or hide using a boolean flag in _config.yml
-#     url: false
+  - title: MARBLE: Music Audio Representation Benchmark for Universal Evaluation
+    url: https://arxiv.org/abs/2306.10548
 
 #   - title: and you can add data in _data/home.yml
 #     url: false
