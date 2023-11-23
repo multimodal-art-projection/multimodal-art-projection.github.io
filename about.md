@@ -11,23 +11,17 @@ The Mutlimodal Art Projection research community is initialised by a group of gr
 * [Ruibin YUAN](https://twitter.com/abc43992899)
 * [Ge ZHANG](https://twitter.com/GeZhang86038849).
 
-The initialisation of M-A-P research community is under the supervision from (surname alphabetical order):
+## Advisors
+
+The projects in M-A-P research community are supervised by the following researchers (surname alphabetical order):
 * [Emmanouil BENETOS](https://www.eecs.qmul.ac.uk/~emmanouilb/)
+* [Wenhu CHEN](https://wenhuchen.github.io/)
+* [Roger DANNENBERG](https://www.cs.cmu.edu/~rbd/)
 * [Jie FU](https://bigaidream.github.io/)
 * [Chenghua LIN](https://chenghualin.wordpress.com/)
-
-## Members
-
-The projects in M-A-P research community are also supervised by the following researchers (surname alphabetical order):
-* [Wenhu CHEN](https://wenhuchen.github.io/)
 * [Ruibo LIU](https://www.cs.dartmouth.edu/~rbliu/)
 * [Gus XIA](http://www.musicxlab.com/members/gus/index.html)
 * [Wei XUE](http://wei-xue.com/)
-
-## Advisors
-
-We are grateful to the suggetions from:
-* [Roger DANNENBERG](https://www.cs.cmu.edu/~rbd/)
 
 
 ## Institutions
