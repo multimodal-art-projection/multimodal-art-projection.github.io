@@ -5,21 +5,34 @@ navbar_entries:
   - title: News
     url: blog
 
-  - title: Released Models
+  - title: Hugging Face Page
     url: https://huggingface.co/m-a-p
 
 project_entries:
   - title: MERT
     url: https://github.com/yizhilll/MERT
-    desc: MERT is a large-scale acoustic music understanding pre-trained model.
+    desc: MERT is a series of large-scale acoustic music understanding pre-trained models.
 
   - title: MARBLE
     url: https://marble-bm.shef.ac.uk/
-    desc: MARBLE is a benchmark proposed to help the academic & industrial to study, compare, and select pre-trained models according comprehensive evaluation.
+    desc: MARBLE is a benchmark proposed to help the academic & industrial to study, compare, and select pre-trained models according to comprehensive evaluation.
 
-  - title: Music Descriptor
-    url: https://huggingface.co/spaces/m-a-p/Music-Descriptor
-    desc: This is an example of using the MERT-v1-95M model as backbone to conduct multiple music understanding tasks with the universal represenation.
+  - title: MuPT
+    url: https://huggingface.co/m-a-p/MuPT_v1_8192_1.3B
+    desc: MuPT is a series of pre-trained models for symbolic music generation. It was trained on a large-scale dataset of symbolic music, including millions of monophonic and polyphonic pieces from different genres and styles.
+
+  - title: COIG Series
+    url: https://huggingface.co/collections/m-a-p/coig-65adf31cd6b4c93ba6894def
+    desc: Chinese Open Instruction Generalist is a series of large-scale Chinese textual datasets for supervised fine-tuning.
+
+  - title: SciMMIR
+    url: https://github.com/Wusiwei0410/SciMMIR
+    desc: The scientific multimodal information retrieval (SciMMIR) is a image-text retrieval benchmark with 500K pairs extracted from the scholarly papers.
+
+
+  # - title: Music Descriptor
+  #   url: https://huggingface.co/spaces/m-a-p/Music-Descriptor
+  #   desc: This is an example of using the MERT-v1-95M model as the backbone to conduct multiple music understanding tasks with the universal represenation.
 
   # - title: Project 1
   #   url: overview-post
