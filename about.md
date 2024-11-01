@@ -17,7 +17,6 @@ The projects in M-A-P research community are supervised by the following researc
 * [Emmanouil BENETOS](https://www.eecs.qmul.ac.uk/~emmanouilb/)
 * [Wenhu CHEN](https://wenhuchen.github.io/)
 * [Roger DANNENBERG](https://www.cs.cmu.edu/~rbd/)
-* [Jie FU](https://bigaidream.github.io/)
 * [Chenghua LIN](https://chenghualin.wordpress.com/)
 * [Ruibo LIU](https://www.cs.dartmouth.edu/~rbliu/)
 * [Gus XIA](http://www.musicxlab.com/members/gus/index.html)
@@ -33,7 +32,7 @@ Our memembers and advisors are from world-wide research institutes (by alphabeti
 - Hong Kong University of Science and Technology
 - Mohamed bin Zayed University of Artificial Intelligence
 - Queen Mary University of London
-- University of Sheffield
+- University of Manchester
 - University of Waterloo
 
 
