@@ -4,22 +4,17 @@ url: https://m-a-p.ai # root address of the site
 description: > # description of the site (multiple lines allowed)
   Multimodal Art Projection (M-A-P) is an open-source AI research community. 
   
-  The community members are working on research topics in a wide range of spectrum, including but not limited to pre-training paradigm of foundation models, large-scale data collection and processing, and the derived applciations on coding, reasoning and music generation.
-
-  The community is open to researchers keen on any relevant topic. Welcome to join us! 
-  - [Discord Channel](https://discord.gg/qeRsjRdRHf)
-  - Our [Full Paper List](https://huggingface.co/collections/m-a-p/m-a-p-full-paper-list-65e070a694c7b01c5547fbff)
-  - mail: contact@m-a-p.ai
+  The community members are working on research topics in a wide range of spectrum, including but not limited to pre-training paradigm of foundation models, large-scale data collection and processing, and the derived applciations on coding, reasoning and music generation. The community is open to researchers keen on any relevant topic. Welcome to join us! 
 
   See our released models at our huggingface organization page: https://huggingface.co/m-a-p.
 
 permalink: /:slug
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "./map-logo-c.ico" # relative path to site's favicon
 
-# twitter:
-#     username: yizhilll # update or delete this
-#     card: summary_large_image
+twitter:
+    username: MM_Art_Project # update or delete this
+    card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
