@@ -53,18 +53,18 @@ old_project_entries:
     desc: The scientific multimodal information retrieval (SciMMIR) is a image-text retrieval benchmark with 500K pairs extracted from the scholarly papers.
 
 
-# footer_entries:
-#   - title: abhinav's homepage
-#     url: https://www.abhinav.co
+footer_entries:
+  - title: huggingface page
+    url: https://www.abhinav.co
 
-#   - title: twitter
-#     url: https://twitter.com/abhinav
+  - title: twitter
+    url: https://twitter.com/MM_Art_Project
 
-#   - title: github
-#     url: https://github.com/abhinavs
+  - title: github
+    url: https://github.com/multimodal-art-projection
 
-#   - title: feed
-#     url: feed.xml
+  - title: feed
+    url: feed.xml
 
 # misc_entries:
 #   - title: this is an example vertical list
