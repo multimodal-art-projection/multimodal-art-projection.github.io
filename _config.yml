@@ -2,9 +2,15 @@ title: Multimodal Art Projection
 author: M-A-P
 url: https://m-a-p.ai # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Multimodal Art Projection (M-A-P) is an opensource research community. 
-  The coummnity members are working on Artificial Intelligence-Generated Content (AIGC) topics, including text, audio, and vision modalities.
-  We do large language models (LMMs) training, data collection, and development of fun applications. Welcome to join us~
+  Multimodal Art Projection (M-A-P) is an open-source AI research community. 
+  
+  The community members are working on research topics in a wide range of spectrum, including but not limited to pre-training paradigm of foundation models, large-scale data collection and processing, and the derived applciations on coding, reasoning and music generation.
+
+  The community is open to researchers keen on any relevant topic. Welcome to join us! 
+  - [Discord Channel](https://discord.gg/qeRsjRdRHf)
+  - Our [Full Paper List](https://huggingface.co/collections/m-a-p/m-a-p-full-paper-list-65e070a694c7b01c5547fbff)
+  - mail: contact@m-a-p.ai
+
   See our released models at our huggingface organization page: https://huggingface.co/m-a-p.
 
 permalink: /:slug
