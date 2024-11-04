@@ -24,6 +24,10 @@ project_entries:
     url: https://github.com/yizhilll/MERT
     desc: MERT is a series of large-scale acoustic music understanding pre-trained models.
 
+  - title: OmniBench
+    url: https://github.com/multimodal-art-projection/OmniBench
+    desc: A hard reasoning benchmark for visual, audio and textual multimodal LLMs.
+
   - title: Chinese Tiny LLM 
     url: https://huggingface.co/collections/m-a-p/mupt-65a2cbcf895d1eca73b9f985
     desc: A series of LLM researches on Chinese LLMs.
