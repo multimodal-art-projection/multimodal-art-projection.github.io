@@ -12,6 +12,8 @@ permalink: /:slug
 
 favicon: "./map-logo-c.ico" # relative path to site's favicon
 
+google_analytics: G-1P2J02ZWQY
+
 twitter:
     username: MM_Art_Project # update or delete this
     card: summary_large_image
