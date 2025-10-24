@@ -17,7 +17,7 @@ The projects in M-A-P research community are supervised by the following researc
 * [Emmanouil BENETOS](https://www.eecs.qmul.ac.uk/~emmanouilb/)
 * [Wenhu CHEN](https://wenhuchen.github.io/)
 * [Roger DANNENBERG](https://www.cs.cmu.edu/~rbd/)
-* [Chenghua LIN](https://chenghualin.wordpress.com/)
+* [Chenghua LIN](https://chenghua-lin.github.io/)
 * [Ruibo LIU](https://www.cs.dartmouth.edu/~rbliu/)
 * [Gus XIA](http://www.musicxlab.com/members/gus/index.html)
 * [Wei XUE](http://wei-xue.com/)
@@ -34,6 +34,12 @@ Our memembers and advisors are from world-wide research institutes (by alphabeti
 - Queen Mary University of London
 - University of Manchester
 - University of Waterloo
+- ByteDance SEED
+- Qwen.ai
 
 
-We also want to express our gratitude to [Yemin Shi](https://scholar.google.com/citations?user=s_KJsGwAAAAJ&hl=en), our first sponsor for maintaining the website domain!
+## Acknowledgements
+
+Domain Sponsorships:
+- We want to express our gratitude to [Yemin Shi](https://scholar.google.com/citations?user=s_KJsGwAAAAJ&hl=en), our first sponsor for maintaining the website domain from 2022-2024!
+- The website domain was supported by the UKRI Centre for Doctoral Training in Artificial Intelligence and Music, supported jointly by UK Research and Innovation [grant number EP/S022694/1] and [Queen Mary University of London](https://www.aim.qmul.ac.uk/) in 2025-2026.
