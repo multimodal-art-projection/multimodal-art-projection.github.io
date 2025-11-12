@@ -43,3 +43,6 @@ Our memembers and advisors are from world-wide research institutes (by alphabeti
 Domain Sponsorships:
 - We want to express our gratitude to [Yemin Shi](https://scholar.google.com/citations?user=s_KJsGwAAAAJ&hl=en), our first sponsor for maintaining the website domain from 2022-2024!
 - The website domain was supported by the UKRI Centre for Doctoral Training in Artificial Intelligence and Music, supported jointly by UK Research and Innovation [grant number EP/S022694/1] and [Queen Mary University of London](https://www.aim.qmul.ac.uk/) in 2025-2026.
+
+Storage Sponsorships:
+- We genuinely thank the [Hugging Face](https://huggingface.co/) for the supporting grant for hosting our models and datasets.
